@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/Lesson1" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/FirstTask" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/FourthTask" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/SecondTask" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/ThirdTask" isTestSource="false" />
+    </content>
+  </component>
+</module>
