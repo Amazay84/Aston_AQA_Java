@@ -1,4 +1,4 @@
-package FirstTask;
+package PrintThreeWords;
 
 import java.util.ArrayList;
 import java.util.Arrays;

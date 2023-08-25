@@ -1,4 +1,4 @@
-package ThirdTask;
+package PrintColor;
 
 public class PrintColor {
     private int value;

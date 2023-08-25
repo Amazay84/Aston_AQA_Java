@@ -1,4 +1,4 @@
-package SecondTask;
+package CheckSumSign;
 
 import java.util.Scanner;
 

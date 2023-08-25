@@ -1,4 +1,4 @@
-package FourthTask;
+package CompareNumbers;
 
 public class CompareNumbers {
     private int a;
