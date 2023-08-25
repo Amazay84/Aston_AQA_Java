@@ -4,6 +4,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/Lesson1">
       <sourceFolder url="file://$MODULE_DIR$/Lesson1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson1/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson1/target" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-20" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
