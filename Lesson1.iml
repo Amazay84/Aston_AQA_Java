@@ -2,8 +2,8 @@
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/Lesson1">
-      <sourceFolder url="file://$MODULE_DIR$/Lesson1" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/Lesson2">
+      <sourceFolder url="file://$MODULE_DIR$/Lesson2" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-20" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
